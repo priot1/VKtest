@@ -1,0 +1,91 @@
+body{
+    box-sizing: border-box;
+@import "https://fonts.fontstorage.com/import/roboto.css";
+
+
+
+}
+
+.main-form__button{
+    background-color: #1A226B;
+    width: 180px;
+    height: 52px;
+    margin-left:210px ;
+    font-size: 24px;
+    line-height: 16px;
+    color: white;
+    margin-top: -20px;
+    font-weight:bold;
+    margin-top: 25px;
+}
+    .main {
+
+
+        width: 1440px;
+        height: 1384px;
+
+    }
+
+
+.main-form{
+    width: 700px;
+    height: 1675px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 40px 10px rgba(0, 0, 0, 0.25);
+    margin-top: 100px;
+    margin-left:420px ;
+    }
+
+.main  input{
+    width: 608px;
+    height: 49px;
+    margin-left: 45px;
+    border: 2px solid #787878;
+    border-radius: 10px;
+    font-size: 28px;
+    line-height: 36px;
+
+}
+.main select{
+    margin-left: 45px;
+    font-size: 24px;
+    line-height: 36px;
+}
+.main label{
+
+    margin-left: 53px;
+    /*font: Roboto; */
+    font-size: 24px;
+    color: #787878;
+    line-height: 16px;
+    font-weight:bold
+}
+
+
+
+.main-form-textarea {
+        width: 510px;
+        height: 246px;
+        margin-left: 45px;
+        border: 2px solid #787878;
+        font-size: 28px;
+        line-height: 36px;
+        margin-bottom: 3px;
+    }
+.main-form__heading{
+    text-align: center;
+    font-size: 50px;
+    line-height: 50px;
+    color: #787878;
+    padding-top: 38px;
+    -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box;
+    margin-bottom: 20px;
+    font-weight:bold
+}
+.main-form__comment,  .main-form__interval{
+    margin-left: 45px;
+    font-size: 24px;
+    color: #787878;
+    line-height: 16px;
+    font-weight:bold;
+}
